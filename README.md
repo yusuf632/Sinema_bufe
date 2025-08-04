@@ -4,8 +4,6 @@ Bu proje, C# Windows Forms ile geliştirilmiş bir Sinema Büfe Yönetim Sistemi
 
 - Mısır, içecek, çay ürünlerinin satışlarını yönetmesi,
 
-- Stok takibi yapması,
-
 - Kasa işlemlerini kolaylaştırması,
 
 - Müşteri siparişlerini hızlı alması için tasarlanmıştır.
@@ -22,7 +20,7 @@ Programlama Dili: C#
    
 🍿 Ürün Ekleme/Düzenleme:
 
-- Ürün adı, fiyat, stok bilgisi.
+- Ürün adı, fiyat.
 
 
 
