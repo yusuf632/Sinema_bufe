@@ -154,7 +154,7 @@ namespace Sinema_bufe
             this.groupBox2.ForeColor = System.Drawing.Color.White;
             this.groupBox2.Location = new System.Drawing.Point(261, 68);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(133, 223);
+            this.groupBox2.Size = new System.Drawing.Size(180, 223);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Fiyat Tablosu";
@@ -173,7 +173,7 @@ namespace Sinema_bufe
             // 
             this.label7.AutoSize = true;
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(9, 123);
+            this.label7.Location = new System.Drawing.Point(9, 126);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(96, 27);
             this.label7.TabIndex = 2;
@@ -193,7 +193,7 @@ namespace Sinema_bufe
             // 
             this.label5.AutoSize = true;
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(9, 58);
+            this.label5.Location = new System.Drawing.Point(9, 40);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(123, 27);
             this.label5.TabIndex = 0;
@@ -208,7 +208,7 @@ namespace Sinema_bufe
             this.groupBox3.Controls.Add(this.button1);
             this.groupBox3.Controls.Add(this.label9);
             this.groupBox3.ForeColor = System.Drawing.Color.White;
-            this.groupBox3.Location = new System.Drawing.Point(426, 68);
+            this.groupBox3.Location = new System.Drawing.Point(471, 68);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(265, 223);
             this.groupBox3.TabIndex = 2;
@@ -294,7 +294,7 @@ namespace Sinema_bufe
             this.panel1.Controls.Add(this.label10);
             this.panel1.Location = new System.Drawing.Point(-2, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(718, 54);
+            this.panel1.Size = new System.Drawing.Size(777, 54);
             this.panel1.TabIndex = 4;
             // 
             // Form1
@@ -302,7 +302,7 @@ namespace Sinema_bufe
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 27F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SlateBlue;
-            this.ClientSize = new System.Drawing.Size(715, 323);
+            this.ClientSize = new System.Drawing.Size(772, 323);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
