@@ -1,6 +1,4 @@
-Proje Tanımı (Murat Yücedağ tarafından öğrendim)
-
-Bu proje, C# Windows Forms ile geliştirilmiş bir Sinema Büfe Yönetim Sistemi'dir. Sinema işletmelerinin:
+Proje Tanımı: Bu proje, C# Windows Forms ile geliştirilmiş bir Sinema Büfe Yönetim Sistemi'dir. Sinema işletmelerinin:
 
 - Mısır, içecek, çay ürünlerinin satışlarını yönetmesi,
 
