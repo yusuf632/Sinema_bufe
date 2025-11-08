@@ -1,26 +1,21 @@
-📌Proje Tanımı: Bu proje, C# Windows Forms ile geliştirilmiş bir Sinema Büfe Yönetim Sistemi'dir. Sinema işletmelerinin:
+📌Project Description: This project is a Cinema Snack Bar Management System developed with C# Windows Forms. It is designed for cinema businesses to:
 
-- Mısır, içecek, çay ürünlerinin satışlarını yönetmesi,
+- Manage sales of popcorn, beverages, and tea products,
 
-- Kasa işlemlerini kolaylaştırması,
+- Simplify cash register operations,
 
-- Müşteri siparişlerini hızlı alması için tasarlanmıştır.
+- Quickly take customer orders.
 
-🛠 Kullanılan Teknolojiler
+🛠 Technologies Used
 
 Platform: Windows Forms (.NET Framework)
 
-Programlama Dili: C#
+Programming Language: C#
 
-📋 Sistem Özellikleri
+📋 System Features
 
-1. Ürün Yönetimi
+1. Product Management
    
-🍿 Ürün Ekleme/Düzenleme:
+🍿 Add/Edit Product:
 
-- Ürün adı, fiyat.
-
-
-
-
-
+- Product name, price.
